@@ -1,0 +1,14 @@
+{
+  "name": "speakmin-github-node-scripts",
+  "version": "1.0.0",
+  "description": "Various scripts using node.js",
+  "main": "index.js",
+  "dependencies": {
+    "@octokit/plugin-retry": "^3.0.9",
+    "@octokit/plugin-throttling": "^4.3.0",
+    "@octokit/rest": "^19.0.4"
+  },
+  "scripts": {},
+  "author": "@speakmin",
+  "license": "Apache-2.0"
+}
